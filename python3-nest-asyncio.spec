@@ -9,7 +9,6 @@ Version:	1.6.0
 Release:	1
 License:	BSD
 Group:		Libraries/Python
-# if pypi:
 Source0:	https://files.pythonhosted.org/packages/source/n/nest-asyncio/nest_asyncio-%{version}.tar.gz
 # Source0-md5:	4a15c56d692367a24ea12072e2e475f3
 URL:		https://pypi.org/project/nest-asyncio/
